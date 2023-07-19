@@ -1,10 +1,10 @@
 ### Olá sou o Alexandre e seja bem vindo ao meu perfil !!
 
-**
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre157s&show_icons=true&theme=radical)
 
-**
+##
 
 <div style="display: inline_block"><br>
           
