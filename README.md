@@ -1,5 +1,7 @@
 ### Olá sou o Alexandre e seja bem vindo ao meu perfil !!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre157s)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ale-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Ale-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
